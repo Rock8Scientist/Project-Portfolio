@@ -1,8 +1,8 @@
 # Data Science Portfolio 
 
-**Hello and Welcome to my Portfolio!**
-
-All the projects and their respective Notebook links are provided below. 
+***Hello and Welcome to my Portfolio!***                         
+\
+All the projects and their respective Notebook links are provided below.
 
 Links to the datasets are also provided. 
 
@@ -15,8 +15,7 @@ Please feel free to contact me over LinkedIn and I will provide you with the Jup
 
 
 
-**Detection of COVID-19 induced Pneumonia using Chest X-rays  
- (CXR – PA)**
+## Detection of COVID-19 induced Pneumonia using Chest X-rays  (CXR – PA)
 
 The links to the pre processed data sets are provided below:
 
@@ -31,13 +30,13 @@ The links to the pre processed data sets are provided below:
 * Multi Class Classification
 (**COVID vs PNEUMONIA vs NORMAL**)
 
-**CXR - Chest X-rays*
+\
+   **CXR - Chest X-rays*
 
-**PA - Posteroanterior (view of X-ray images)*
+   **PA - Posteroanterior (view of X-ray images)*
 
 
-**Big Data Wrangling with Google Book Ngrams    
-(Load, filter, and visualize a large dataset in AWS cloud environment)**
+## Big Data Wrangling with Google Book Ngrams    (Load, filter, and visualize a large dataset in AWS cloud environment)
 
 * Work with real world data using Hadoop, Spark and the AWS S3 filesystem.
 
@@ -47,8 +46,7 @@ The links to the pre processed data sets are provided below:
 
 * Perform Data Analysis and visualizations. 
 
-**Hotel Reviews - Booking.com  
-(Natural Language Processing/ Sentiment Analysis)**
+## Hotel Reviews - Booking.com                         (Natural Language Processing/ Sentiment Analysis)
 
 > Download the [Dataset](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe)
 
@@ -56,16 +54,14 @@ The links to the pre processed data sets are provided below:
 
 * Employ various ML models and comparing their performance (Logistic Regression with PCA and Cross-Validation, KNN, Decision Trees and Random Forests)
 
-**US Presidential Elections.  
-(EDA, Data Cleaning, Visualization, Statistical modeling and inference)**
+## US Presidential Elections (EDA, Data Cleaning, Visualization, Statistical modeling and inference)**
 
 * EDA and Data cleaning on previous election data.
 
 * Statistical modeling, Model selection and Inference
 
 
-**BIXI Montréal, bike-sharing system.  
-(Data Analysis and Data Visualization)**
+## BIXI Montréal, bike-sharing system (Data Analysis and Data Visualization)
 
 * Data Analysis on the real-world data using SQL queries on MySQL workbench. 
 
