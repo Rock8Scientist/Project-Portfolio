@@ -15,7 +15,9 @@ Please feel free to contact me over LinkedIn and I will provide you with the Jup
 
 
 
-## Detection of COVID-19 induced Pneumonia using Chest X-rays  (CXR – PA)
+## **Detection of COVID-19 induced Pneumonia using Chest X-rays (CXR-PA)**  - A Deep Learning Implementation. 
+
+An approach to distinguish between **NORMAL, PNEUMONIA and COVID-19** positive patients using Convolutional Neural Networks for Image classification on Chest X-rays.
 
 The links to the pre processed data sets are provided below:
 
