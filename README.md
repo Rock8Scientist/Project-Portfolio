@@ -25,11 +25,11 @@ The links to the pre processed data sets are provided below:
 
 > Download NORMAL and PNEUMONIA [Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
-* Exploratory Data Analysis and Data Extraction
+* Exploratory Data Analysis and Data Extraction ([Notebook](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Notebooks/EDA_and_Data_Extraction.ipynb))
 
-* Binary Classification (**COVID vs NORMAL**)
+* [Binary Classification](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Binary_Classification_Modeling.ipynb) (**COVID vs NORMAL**)
 
-* Multi Class Classification
+* [Multi Class Classification](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Multi_Class_Classification.ipynb)
 (**COVID vs PNEUMONIA vs NORMAL**)
 
 \
