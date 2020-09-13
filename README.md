@@ -56,7 +56,7 @@ The links to the pre processed data sets are provided below:
 
 * Employ various ML models and comparing their performance (Logistic Regression with PCA and Cross-Validation, KNN, Decision Trees and Random Forests)
 
-## US Presidential Elections (EDA, Data Cleaning, Visualization, Statistical modeling and inference)**
+## US Presidential Elections (EDA, Data Cleaning, Visualization, Statistical modeling and inference)
 
 * EDA and Data cleaning on previous election data.
 
