@@ -6,8 +6,6 @@ All the projects and their respective Notebook links are provided below.
 
 Links to the datasets are also provided. 
 
-Please feel free to reach out to me should you have any questions. For more information please visit the [website](https://www.saikrishnadandamudi.com)
-
 
 **Note**: Due to confidentiality reasons and some of these projects being deliverables for the BrainStation Data Science program, the information is not publicly hosted on Github. 
 
